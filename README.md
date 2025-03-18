@@ -5,7 +5,6 @@
 🎓 **Computer Science Undergraduate** at [Informatics Institute of Technology (IIT)](https://www.iit.ac.lk/), Sri Lanka  
 🚀 **Current Project:** Traces - Real-time Delivery Tracking System (Second-year University Project)  
 🌱 **Currently Learning:** Node.js, Docker, Flutter, C++  
-👨‍💻 **Portfolio:** [dihan.dev](https://dihan.dev) *(placeholder - consider creating a portfolio site)*
 
 ---
 
