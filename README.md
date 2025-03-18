@@ -76,7 +76,7 @@
 ---
 
 ## ⚡ Fun Fact
-My middle name is **Hansaja**. If you remove 'aja' → **Hans**. I'm from *Star Wars*! 😆
+ Middle name - **Hansaja**.  remove 'aja'part  → **Hans**. I'm from *Star Wars*! 😆
 
 ---
 
